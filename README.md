@@ -5,7 +5,6 @@
 ## Workshop OV Software
 
 > Unit Tests are Watchmen over the code, so who watches the Watchmen?
-
 > “QVIS CVSTODIET IPSOS CVSTODES” - Juvenal (also creator of “Mens Sana In Corpore Sano”)
 
 1971 - Yale Student Richard Lipton
